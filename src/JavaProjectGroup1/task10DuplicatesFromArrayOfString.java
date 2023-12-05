@@ -2,7 +2,7 @@ package JavaProjectGroup1;
 
 public class task10DuplicatesFromArrayOfString {
     public static void main(String[] args) {
-        //print out  duplicate elements from  an  array of strings
+        //print out  duplicate elements from  an  array of Strings
         String[] str = {"math", "geography", "biology", "math", "biology"};
         boolean isDuplicate=false;
         for (int i = 0; i < str.length; i++) {
